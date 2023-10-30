@@ -211,7 +211,7 @@ var APP_DATA = {
   ],
   "name": "Capalonga (CAMADA)",
   "settings": {
-    "mouseViewMode": "drag",
+    "mouseViewMode": "qtvr",
     "autorotateEnabled": false,
     "fullscreenButton": true,
     "viewControlButtons": false
